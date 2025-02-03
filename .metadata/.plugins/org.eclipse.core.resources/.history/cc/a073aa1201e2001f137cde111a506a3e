@@ -5,7 +5,7 @@ public class JavaStatements
 		int num1 = 5;
 		for (int i = 0; i < num1; i++)
 		{
-			System.out.print("[]");
+			System.out.println("[]");
 			for (int j = 0; j < num1; j++)
 			{
 				System.out.println("[]");
